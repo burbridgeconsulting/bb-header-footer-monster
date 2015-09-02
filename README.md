@@ -8,7 +8,7 @@ Thanks to the Beaver Builders FaceBook group for inspirtion and ideation...
 
 Beaver Builder Pro plugin provides remarkable flexibility in terms of individual page content area, but lacks a way of defining repeating headers and footers. This means people either have to: (1) Manually add BB header and footer rows on a per-page or per-post basis; (2) duplicate pages or posts in the Dashboard that already have the desired layout; (3) utilize a separate means of implementing headers and footers.
 
-* Solution (1) works for a small number of pages (especially with the introduction of global modules), but is not so workable for large sites, or legacy sites.
+* Solution (1) works for a small number of pages (especially with the introduction of global rows), but is not so workable for large sites, or legacy sites.
 
 * Solution (2) is elegant, but not user-friendly for clients, or very blog-friendly.
 
