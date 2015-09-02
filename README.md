@@ -2,7 +2,7 @@
 
 A simple way of using Beaver Builder for headers and footers.
 
-Thanks to [Dan Frybort](https://www.facebook.com/danfrybort) for the initial summary.
+Thanks to the Beaver Builders FaceBook group for inspirtion and ideation...
 
 ## Problem Summary
 
